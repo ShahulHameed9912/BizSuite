@@ -1,6 +1,6 @@
 # BizSuite
 This app is a modern business management solution designed to help entrepreneurs and small businesses monitor performance, track orders, analyze revenue, and manage daily operations from one place.
-🔹 Dashboard
+# Dashboard
     The dashboard provides a quick overview of business activity with smart summary cards displaying:
       * Total Products
       * Total Orders
