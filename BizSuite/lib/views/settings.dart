@@ -126,7 +126,7 @@ class _SettingsScreenState extends State<Settings> {
       title: Text(title),
       value: value,
       onChanged: onChanged,
-      activeColor: Colors.green,
+      activeThumbColor: Colors.green,
     );
   }
 
