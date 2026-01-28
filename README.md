@@ -8,7 +8,7 @@ This app is a modern business management solution designed to help entrepreneurs
       * Revenue progress
 Each card includes visual progress indicators, making it easy to understand performance at a glance. A revenue chart with daily, weekly, and monthly filters helps users track trends and compare growth over time.
 
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-01-28 at 23 53 52" src="https://github.com/user-attachments/assets/661ba0f4-1f1c-46e6-87dc-424ea83d6069" />
+<img width="120" height="260" alt="Simulator Screenshot - iPhone 17 - 2026-01-28 at 23 53 52" src="https://github.com/user-attachments/assets/661ba0f4-1f1c-46e6-87dc-424ea83d6069" />
 
 🔹 Analytics
 The analytics section offers deeper insights into business performance, including:
